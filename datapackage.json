@@ -1,0 +1,119 @@
+{
+  "name": "us-fintech-lockout-index",
+  "title": "US Fintech Lockout Index",
+  "version": "1.0",
+  "homepage": "https://bizstartz.com/us-fintech-lockout-index/",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Bizstartz",
+      "path": "https://bizstartz.com",
+      "role": "publisher"
+    },
+    {
+      "title": "Rahul Shrestha",
+      "role": "author"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mercury prohibited countries",
+      "path": "https://support.mercury.com/hc/en-us/articles/28771710754580-Prohibited-countries"
+    },
+    {
+      "title": "Relay prohibited countries",
+      "path": "https://relayfi.com/hc/en-us/articles/10239600121748-Prohibited-Countries/"
+    },
+    {
+      "title": "Wise USD account details",
+      "path": "https://wise.com/help/articles/2810318/can-i-get-usd-account-details"
+    },
+    {
+      "title": "Stripe global availability",
+      "path": "https://stripe.com/global"
+    }
+  ],
+  "resources": [
+    {
+      "name": "lockout-index",
+      "path": "data/us-fintech-lockout-index.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer"
+          },
+          {
+            "name": "country",
+            "type": "string"
+          },
+          {
+            "name": "lockout_score",
+            "type": "number",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 4
+            }
+          },
+          {
+            "name": "mercury_blocked",
+            "type": "integer",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
+          },
+          {
+            "name": "relay_blocked",
+            "type": "integer",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
+          },
+          {
+            "name": "wise_usd_details_blocked",
+            "type": "integer",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
+          },
+          {
+            "name": "stripe_local_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Supported",
+                "Preview",
+                "Extended network",
+                "Not listed"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "lockout-index-json",
+      "path": "data/us-fintech-lockout-index.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}

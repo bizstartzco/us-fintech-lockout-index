@@ -1,0 +1,198 @@
+rank,country,lockout_score,mercury_blocked,relay_blocked,wise_usd_details_blocked,stripe_local_status
+1,Afghanistan,4,1,1,1,Not listed
+1,Belarus,4,1,1,1,Not listed
+1,Burundi,4,1,1,1,Not listed
+1,Central African Republic,4,1,1,1,Not listed
+1,Congo (Democratic Republic),4,1,1,1,Not listed
+1,Cuba,4,1,1,1,Not listed
+1,Iran,4,1,1,1,Not listed
+1,Iraq,4,1,1,1,Not listed
+1,Libya,4,1,1,1,Not listed
+1,Myanmar,4,1,1,1,Not listed
+1,North Korea,4,1,1,1,Not listed
+1,Pakistan,4,1,1,1,Not listed
+1,Russia,4,1,1,1,Not listed
+1,Somalia,4,1,1,1,Not listed
+1,South Sudan,4,1,1,1,Not listed
+1,Sudan,4,1,1,1,Not listed
+1,Syria,4,1,1,1,Not listed
+1,Ukraine,4,1,1,1,Not listed
+1,Venezuela,4,1,1,1,Not listed
+1,Yemen,4,1,1,1,Not listed
+21,Nigeria,3.5,1,1,1,Extended network
+22,Bangladesh,3,1,0,1,Not listed
+22,Bosnia and Herzegovina,3,1,1,0,Not listed
+22,Burkina Faso,3,1,1,0,Not listed
+22,Cambodia,3,1,1,0,Not listed
+22,Cameroon,3,1,0,1,Not listed
+22,Congo (Republic),3,1,0,1,Not listed
+22,Eritrea,3,1,0,1,Not listed
+22,Guinea-Bissau,3,0,1,1,Not listed
+22,Haiti,3,1,1,0,Not listed
+22,Lebanon,3,1,1,0,Not listed
+22,Mali,3,1,1,0,Not listed
+22,Nicaragua,3,1,1,0,Not listed
+22,Zimbabwe,3,1,1,0,Not listed
+35,Albania,2,1,0,0,Not listed
+35,Angola,2,1,0,0,Not listed
+35,Bhutan,2,1,0,0,Not listed
+35,Chad,2,0,0,1,Not listed
+35,China,2,0,0,1,Not listed
+35,Ethiopia,2,0,1,0,Not listed
+35,Gambia,2,1,0,0,Not listed
+35,Kyrgyzstan,2,1,0,0,Not listed
+35,Lesotho,2,1,0,0,Not listed
+35,Liberia,2,1,0,0,Not listed
+35,Maldives,2,1,0,0,Not listed
+35,Mozambique,2,1,0,0,Not listed
+35,Nepal,2,1,0,0,Not listed
+35,Palestine,2,1,0,0,Not listed
+35,Philippines,2,1,0,0,Not listed
+35,Serbia,2,0,0,1,Not listed
+35,Sri Lanka,2,0,0,1,Not listed
+35,Türkiye,2,0,0,1,Not listed
+35,Uzbekistan,2,1,0,0,Not listed
+35,Vanuatu,2,1,0,0,Not listed
+35,Vietnam,2,1,0,0,Not listed
+56,Indonesia,1.5,1,0,0,Preview
+57,Algeria,1,0,0,0,Not listed
+57,Andorra,1,0,0,0,Not listed
+57,Antigua and Barbuda,1,0,0,0,Not listed
+57,Argentina,1,0,0,0,Not listed
+57,Armenia,1,0,0,0,Not listed
+57,Azerbaijan,1,0,0,0,Not listed
+57,Bahamas,1,0,0,0,Not listed
+57,Bahrain,1,0,0,0,Not listed
+57,Barbados,1,0,0,0,Not listed
+57,Belize,1,0,0,0,Not listed
+57,Benin,1,0,0,0,Not listed
+57,Bolivia,1,0,0,0,Not listed
+57,Botswana,1,0,0,0,Not listed
+57,Brunei,1,0,0,0,Not listed
+57,Cabo Verde,1,0,0,0,Not listed
+57,Chile,1,0,0,0,Not listed
+57,Colombia,1,0,0,0,Not listed
+57,Comoros,1,0,0,0,Not listed
+57,Costa Rica,1,0,0,0,Not listed
+57,Croatia,1,1,0,0,Supported
+57,Djibouti,1,0,0,0,Not listed
+57,Dominica,1,0,0,0,Not listed
+57,Dominican Republic,1,0,0,0,Not listed
+57,Ecuador,1,0,0,0,Not listed
+57,Egypt,1,0,0,0,Not listed
+57,El Salvador,1,0,0,0,Not listed
+57,Equatorial Guinea,1,0,0,0,Not listed
+57,Eswatini,1,0,0,0,Not listed
+57,Fiji,1,0,0,0,Not listed
+57,Gabon,1,0,0,0,Not listed
+57,Georgia,1,0,0,0,Not listed
+57,Grenada,1,0,0,0,Not listed
+57,Guatemala,1,0,0,0,Not listed
+57,Guinea,1,0,0,0,Not listed
+57,Guyana,1,0,0,0,Not listed
+57,Honduras,1,0,0,0,Not listed
+57,Iceland,1,0,0,0,Not listed
+57,Israel,1,0,0,0,Not listed
+57,Jamaica,1,0,0,0,Not listed
+57,Jordan,1,0,0,0,Not listed
+57,Kazakhstan,1,0,0,0,Not listed
+57,Kiribati,1,0,0,0,Not listed
+57,Kosovo,1,0,0,0,Not listed
+57,Kuwait,1,0,0,0,Not listed
+57,Laos,1,0,0,0,Not listed
+57,Latvia,1,1,0,0,Supported
+57,Macao,1,0,0,0,Not listed
+57,Madagascar,1,0,0,0,Not listed
+57,Malawi,1,0,0,0,Not listed
+57,Marshall Islands,1,0,0,0,Not listed
+57,Mauritania,1,0,0,0,Not listed
+57,Mauritius,1,0,0,0,Not listed
+57,Micronesia,1,0,0,0,Not listed
+57,Moldova,1,0,0,0,Not listed
+57,Monaco,1,0,0,0,Not listed
+57,Mongolia,1,0,0,0,Not listed
+57,Montenegro,1,0,0,0,Not listed
+57,Morocco,1,0,0,0,Not listed
+57,Namibia,1,0,0,0,Not listed
+57,Nauru,1,0,0,0,Not listed
+57,Niger,1,0,0,0,Not listed
+57,North Macedonia,1,0,0,0,Not listed
+57,Oman,1,0,0,0,Not listed
+57,Palau,1,0,0,0,Not listed
+57,Panama,1,0,0,0,Not listed
+57,Papua New Guinea,1,0,0,0,Not listed
+57,Paraguay,1,0,0,0,Not listed
+57,Peru,1,0,0,0,Not listed
+57,Qatar,1,0,0,0,Not listed
+57,Rwanda,1,0,0,0,Not listed
+57,Saint Kitts and Nevis,1,0,0,0,Not listed
+57,Saint Lucia,1,0,0,0,Not listed
+57,Saint Vincent and the Grenadines,1,0,0,0,Not listed
+57,Samoa,1,0,0,0,Not listed
+57,San Marino,1,0,0,0,Not listed
+57,Saudi Arabia,1,0,0,0,Not listed
+57,Senegal,1,0,0,0,Not listed
+57,Seychelles,1,0,0,0,Not listed
+57,Sierra Leone,1,0,0,0,Not listed
+57,Solomon Islands,1,0,0,0,Not listed
+57,South Korea,1,0,0,0,Not listed
+57,Suriname,1,0,0,0,Not listed
+57,São Tomé and Príncipe,1,0,0,0,Not listed
+57,Taiwan,1,0,0,0,Not listed
+57,Tajikistan,1,0,0,0,Not listed
+57,Tanzania,1,0,0,0,Not listed
+57,Timor-Leste,1,0,0,0,Not listed
+57,Togo,1,0,0,0,Not listed
+57,Tonga,1,0,0,0,Not listed
+57,Trinidad and Tobago,1,0,0,0,Not listed
+57,Tunisia,1,0,0,0,Not listed
+57,Turkmenistan,1,0,0,0,Not listed
+57,Tuvalu,1,0,0,0,Not listed
+57,Uganda,1,0,0,0,Not listed
+57,United Arab Emirates,1,0,0,1,Supported
+57,Uruguay,1,0,0,0,Not listed
+57,Zambia,1,0,0,0,Not listed
+154,Côte d'Ivoire,0.5,0,0,0,Extended network
+154,Ghana,0.5,0,0,0,Extended network
+154,India,0.5,0,0,0,Preview
+154,Kenya,0.5,0,0,0,Extended network
+154,South Africa,0.5,0,0,0,Extended network
+159,Australia,0,0,0,0,Supported
+159,Austria,0,0,0,0,Supported
+159,Belgium,0,0,0,0,Supported
+159,Brazil,0,0,0,0,Supported
+159,Bulgaria,0,0,0,0,Supported
+159,Canada,0,0,0,0,Supported
+159,Cyprus,0,0,0,0,Supported
+159,Czechia,0,0,0,0,Supported
+159,Denmark,0,0,0,0,Supported
+159,Estonia,0,0,0,0,Supported
+159,Finland,0,0,0,0,Supported
+159,France,0,0,0,0,Supported
+159,Germany,0,0,0,0,Supported
+159,Greece,0,0,0,0,Supported
+159,Hong Kong,0,0,0,0,Supported
+159,Hungary,0,0,0,0,Supported
+159,Ireland,0,0,0,0,Supported
+159,Italy,0,0,0,0,Supported
+159,Japan,0,0,0,0,Supported
+159,Liechtenstein,0,0,0,0,Supported
+159,Lithuania,0,0,0,0,Supported
+159,Luxembourg,0,0,0,0,Supported
+159,Malaysia,0,0,0,0,Supported
+159,Malta,0,0,0,0,Supported
+159,Mexico,0,0,0,0,Supported
+159,Netherlands,0,0,0,0,Supported
+159,New Zealand,0,0,0,0,Supported
+159,Norway,0,0,0,0,Supported
+159,Poland,0,0,0,0,Supported
+159,Portugal,0,0,0,0,Supported
+159,Romania,0,0,0,0,Supported
+159,Singapore,0,0,0,0,Supported
+159,Slovakia,0,0,0,0,Supported
+159,Slovenia,0,0,0,0,Supported
+159,Spain,0,0,0,0,Supported
+159,Sweden,0,0,0,0,Supported
+159,Switzerland,0,0,0,0,Supported
+159,Thailand,0,0,0,0,Supported
+159,United Kingdom,0,0,0,0,Supported

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the source page."
+type: dataset
+title: "US Fintech Lockout Index"
+version: "1.0"
+date-released: 2026-10-16
+license: CC-BY-4.0
+url: "https://bizstartz.com/us-fintech-lockout-index/"
+repository-code: "https://github.com/bizstartzco/us-fintech-lockout-index"
+abstract: "197 countries scored 0 to 4 by whether the published rules of four US business-banking and payment providers (Mercury, Relay, Wise, Stripe) shut out residents."
+keywords:
+  - fintech
+  - banking access
+  - non-resident founders
+  - US LLC
+  - country restrictions
+authors:
+  - name: "Bizstartz"
+    website: "https://bizstartz.com"
+  - family-names: "Shrestha"
+    given-names: "Rahul"
+    affiliation: "Bizstartz"
