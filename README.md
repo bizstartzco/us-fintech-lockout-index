@@ -33,7 +33,7 @@ Each provider adds one point when its published rules shut out residents of a co
 | Wise | https://wise.com/help/articles/2810318/can-i-get-usd-account-details , https://wise.com/help/articles/2978049/where-can-i-use-wise |
 | Stripe | https://stripe.com/global |
 
-All four pages were read on 16 October 2026. Mercury and Relay were re-checked against this file on 3 November 2026 with no changes: Mercury lists 48 prohibited countries plus sanctioned countries (Cuba, Iran, North Korea are scored as blocked), Relay lists 31.
+All four pages were read on 16 October 2026 and re-checked against this file on 3 November 2026 with no changes: Mercury lists 48 prohibited countries plus sanctioned countries (Cuba, Iran, North Korea are scored as blocked), Relay lists 31, Wise blocks USD account details for 32 (31 by address plus China for business accounts), Stripe spot-checked.
 
 ## Limitations
 
